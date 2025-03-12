@@ -1,4 +1,4 @@
-class Cli < Formula
+class PileCli < Formula
     desc "Docker management CLI"
     homepage "https://github.com/docker-pile/pile-cli"
     url "https://github.com/docker-pile/pile-cli/releases/download/v0.0.1/pile-darwin-amd64"
