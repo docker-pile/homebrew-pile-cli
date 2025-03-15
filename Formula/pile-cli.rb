@@ -1,8 +1,8 @@
 class PileCli < Formula
     desc "Docker management CLI"
     homepage "https://github.com/docker-pile/pile-cli"
-    url "https://github.com/docker-pile/pile-cli/releases/download/v0.0.2/pile-darwin-amd64"
-    sha256 "35f0d2f20638680ec40945630876f6ec674a5bab6d42ca054d103545011c40de"
+    url "https://github.com/docker-pile/pile-cli/releases/download/v0.0.3/pile-darwin-amd64"
+    sha256 "1a43fed1ee47029ebaf2a237bbc99c2e7aab1608ee14a54ce17a1874f5cca758"
     license "MIT"
   
     def install
